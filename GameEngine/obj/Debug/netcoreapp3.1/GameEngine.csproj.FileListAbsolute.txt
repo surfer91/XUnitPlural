@@ -1,0 +1,8 @@
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.deps.json
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.pdb
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csprojAssemblyReference.cache
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfoInputs.cache
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfo.cs
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\XUnitPlural\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.pdb
