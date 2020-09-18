@@ -9,7 +9,7 @@ namespace GameEngine.Tests
         public void HaveCorrectPower()
     
         {BossEnemy sut=new BossEnemy();
-            Assert.Equal(166.67,sut.TotalSpecialAttackPower,3);
+            Assert.Equal(166.667,sut.TotalSpecialAttackPower,3);
             
         }
         
