@@ -165,8 +165,8 @@ namespace GameEngine.Tests
        
        Assert.Raises<EventArgs>(handler=>sut.PlayerSlept+=handler,handler=>sut.PlayerSlept-=handler,()=>sut.Sleep());
                       }
-        
-                public void RaisePropertyChangedEvent()
+                      [Fact]
+                                              public void RaisePropertyChangedEvent()
     
         {PlayerCharacter sut=new PlayerCharacter();
        
