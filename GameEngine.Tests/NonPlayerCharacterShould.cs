@@ -5,7 +5,7 @@ namespace GameEngine.Tests
     public class NonPlayerCharacterShould
     {                
         [Theory]
-        [MemberData(nameof(InternalHealthDamagTestData.TestData),MemberType=typeof(InternalHealthDamagTestData))]
+        [MemberData(nameof(ExternalHealthDamageTestData.TestData),MemberType=typeof(ExternalHealthDamageTestData))]
         //[InlineData(0, 100)]
         //[InlineData(1, 99)]
         //[InlineData(50, 50)]
